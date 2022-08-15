@@ -22,6 +22,11 @@
   overflow: hidden;
 }
 
+.portfolio__item-image img:hover {
+  transform: scale(1.1);
+  transition:cubic-bezier(1, 0, 0, 1) .3s;
+}
+
 .portfolio__item h3 {
   margin: 1.2rem 0 2rem;
 }
