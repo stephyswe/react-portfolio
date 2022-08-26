@@ -5,8 +5,8 @@ const data = [
     image:
       "https://raw.githubusercontent.com/stephyswe/next-nuber-client/main/preview.png",
     title: "Uber Eats Clone",
-    github: "https://github.com/stephyswe/next-nuber-client",
-    demo: "https://next-nuber-client.vercel.app/client/delivery",
+    github: "https://github.com/stephyswe/nuber-fe-next",
+    demo: "https://nuber-fe-next.vercel.app/client/dining/delivery",
   },
   {
     image:
