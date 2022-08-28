@@ -35,7 +35,7 @@ const About = () => {
             I'm Stephanie, a frontend & backend developer in Gothenburg.
           </h2>
           <h3>
-            HI there! My main expertise lies in frontend development, thought I
+            Hi there! My main expertise lies in frontend development, thought I
             do dabble in UX with Figma, backend coding and database management.
             If you like my site, don’t hesitate to reach out! More to come soon.
           </h3>
