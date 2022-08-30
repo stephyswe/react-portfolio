@@ -3,7 +3,7 @@ import "./portfolio.css";
 const data = [
   {
     image:
-      "https://raw.githubusercontent.com/stephyswe/next-nuber-client/main/preview.png",
+      "https://raw.githubusercontent.com/stephyswe/nuber-fe-next/main/doc/preview.png",
     title: "Uber Eats Clone",
     github: "https://github.com/stephyswe/nuber-fe-next",
     demo: "https://nuber-fe-next.vercel.app/client/dining/delivery",
